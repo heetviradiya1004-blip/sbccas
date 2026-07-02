@@ -1,51 +1,53 @@
 <h1 align="center">Hi 👋, I'm Amroli BCA</h1>
-<!--
-**sbccas/sbccas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
-🎓 Welcome to AMROLI BCA, where knowledge meets innovation, and excellence is a way of life! 🌟
+<p align="center">
+  <strong>Where knowledge meets innovation, and excellence is a way of life!</strong>
+</p>
 
-📚 Unlock the doors to endless learning and discovery with AMROLI BCA. We're your trusted source for:
+<p align="center">
+  <a href="http://www.amrolicollege.ac.in"><img src="https://img.shields.io/badge/Website-Amroli%20College-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="mailto:info@amrolicollege.ac.in"><img src="https://img.shields.io/badge/Email-info%40amrolicollege-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.instagram.com/amrolibca/"><img src="https://img.shields.io/badge/Instagram-@amrolibca-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
 
-🚀 Innovative Courses: Explore cutting-edge courses designed to fuel your curiosity and drive your career forward.
+---
 
-🌍 Global Community: Join a vibrant community of learners and educators from all corners of the world. Together, we're redefining education.
+### 🏫 About Us
+AMROLI BCA is more than just an educational institution; we are a vibrant community of lifelong learners, dreamers, and innovators. With a legacy spanning **25 Years**, we have been at the forefront of Computer Science education, shaping the tech leaders of tomorrow.
 
-💡 Tech Enthusiasts: Whether you're a coding ninja, design maven, data wizard, or just passionate about technology, you're in good company.
+*   🚀 **Innovative Courses:** Cutting-edge curricula designed to fuel curiosity and drive careers forward.
+*   🌍 **Global Community:** A diverse, inclusive network of learners and educators redefining education.
+*   💡 **Tech Enthusiasts:** The ultimate hub for coding ninjas, design mavens, and data wizards.
 
-🧠 Lifelong Learners: Embrace the lifelong learning journey. The world is your classroom, and knowledge is your superpower.
+---
 
-🌱 Our Commitment:
-- 🤝 We believe in the power of collaboration and open-source education.
-- 🌐 Our mission is to make quality education accessible to all, regardless of borders or backgrounds.
-- 📢 Your feedback shapes our offerings. Help us tailor the perfect learning experience for you.
+### 🏆 What Sets Us Apart
+*   📚 **World-Class Faculty:** Dedicated researchers and educators pushing the boundaries of technology.
+*   🤝 **Collaboration First:** We deeply believe in the power of open-source education and shared knowledge.
+*   🌱 **Ethical Leadership:** A strong commitment to sustainability, inclusivity, and real-world success.
 
-🏫 About Us:
-AMROLI BCA is not just an educational institution; we are a community of lifelong learners, dreamers, and innovators. With a legacy spanning 25 Years, we have been at the forefront of Comuter Science.
+---
 
-🌍 Our Mission:
-At AMROLI BCA, we are dedicated to Top Class Education. Our goal is to prepare students for the challenges and opportunities of the 21st century.
+### 📊 GitHub Statistics
 
-🏆 What Sets Us Apart:
-- 📚 World-class faculty and researchers pushing the boundaries of knowledge.
-- 🌐 A diverse and inclusive community that celebrates different perspectives.
-- 🚀 Innovative programs and initiatives that prepare students for real-world success.
-- 🌱 A commitment to sustainability and ethical leadership.
+<table align="center" border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=sbccas&show_icons=true&locale=en&theme=visual_studio_dark" alt="Amroli BCA GitHub Stats" width="100%" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sbccas&show_icons=true&locale=en&layout=compact&theme=visual_studio_dark" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sbccas&theme=visual_studio_dark" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sbccas&show_icons=true&locale=en&layout=compact" alt="sbccas" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sbccas&show_icons=true&locale=en" alt="sbccas" /></p>
+### 🤝 Join Our Community
+Are you a student, educator, or developer passionate about tech? We invite you to explore our repositories, contribute to open-source learning resources, and collaborate on projects defining the future of computer applications.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sbccas&" alt="sbccas" /></p>
-
-🤝 Join Our Community:
-Are you a student, educator, researcher, or just someone passionate about education and innovation? We invite you to be a part of our vibrant GitHub community. Explore our repositories to discover cutting-edge research, educational resources, and projects that define the future of learning and discovery.
-
-🔗 Connect with AMROLI BCA:
-- 🌐 Website: [http://www.amrolicollege.ac.in]
-- 📧 Email: [info@amrolicollege.ac.in]
-- 📱 Social Media: [Institution's social media profiles](https://www.instagram.com/amrolibca/)
-
-🌈 Let's code, create, and innovate. Together, we're building a smarter, brighter future. 🚀
-
-🎉 Thank you for considering AMROLI BCA as your source of knowledge, inspiration, and collaboration. Together, we can shape a brighter future! 🌈
+🌈 *Let's code, create, and innovate. Together, we're building a smarter, brighter future.* 🚀
